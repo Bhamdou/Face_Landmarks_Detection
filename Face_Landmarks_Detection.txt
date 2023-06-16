@@ -1,0 +1,3 @@
+This script will continuously capture frames from your webcam, detect any faces in the frame, and draw landmarks on them.
+It also calculates and prints the distance between the tip of the nose (landmark 30) and the right corner of 
+the mouth (landmark 48), demonstrating one way you could use these landmarks to analyze facial features or expressions.
